@@ -1,0 +1,74 @@
+{
+  "ireland": [
+    {
+      "id": 1,
+      "team": "Kerry",
+      "badge": "https://upload.wikimedia.org/wikipedia/en/7/7e/Kerry_GAA_crest.jpg",
+      "province": "Munster",
+      "titles": 117
+    },
+    {
+      "id": 2,
+      "team": "Dublin",
+      "badge": "https://upload.wikimedia.org/wikipedia/en/c/cf/Dublin_GAA_crest.svg",
+      "province": "Leinster",
+      "titles": 86
+    },
+    {
+      "id": 3,
+      "team": "Galway",
+      "badge": "https://upload.wikimedia.org/wikipedia/en/2/23/Galway_GAA_crest_2013.jpg",
+      "province": "Connacht",
+      "titles": 57
+    },
+    {
+      "id": 4,
+      "team": "Mayo",
+      "badge": "https://upload.wikimedia.org/wikipedia/en/0/0a/Mayo_GAA_crest.jpg?20090729144349",
+      "province": "Connacht",
+      "titles": 49
+    },
+    {
+      "id": 5,
+      "team": "Cork",
+      "badge": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Cork_GAA_crest.svg/316px-Cork_GAA_crest.svg.png?20230325000528",
+      "province": "Munster",
+      "titles": 44
+    },
+    {
+      "id": 6,
+      "team": "Cavan",
+      "badge": "https://upload.wikimedia.org/wikipedia/en/d/dd/Cavan_GAA_crest.jpg?20200427000525",
+      "province": "Ulster",
+      "titles": 44
+    },
+    {
+      "id": 7,
+      "team": "Meath",
+      "badge": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Meath_GAA_crest.svg/316px-Meath_GAA_crest.svg.png?20230325000538",
+      "province": "Leinster",
+      "titles": 28
+    },
+    {
+      "id": 8,
+      "team": "Roscommon",
+      "badge": "https://upload.wikimedia.org/wikipedia/en/e/ea/Roscommon_GAA_crest.png?20171025222610",
+      "province": "Connacht",
+      "titles": 26
+    },
+    {
+      "id": 9,
+      "team": "Tyrone",
+      "badge": "https://upload.wikimedia.org/wikipedia/en/d/de/Tyrone_GAA_crest.jpg?20150430155046",
+      "province": "Ulster",
+      "titles": 18
+    },
+    {
+      "id": 10,
+      "team": "Down",
+      "badge": "https://upload.wikimedia.org/wikipedia/en/2/2a/Down_GAA_crest.png?20221125181641",
+      "province": "Ulster",
+      "titles": 17
+    }
+  ]
+}
